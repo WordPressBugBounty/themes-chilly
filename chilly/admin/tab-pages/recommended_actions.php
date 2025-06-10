@@ -3,7 +3,7 @@
 	$chilly_actions_todo = get_option( 'recommended_actions', false );
 ?>
 <div id="recommended_actions" class="chilly-tab-pane panel-close">
-	<div class="action-list">
+	<div class="row action-list">
 		<?php if($chilly_actions): foreach ($chilly_actions as $key => $chilly_val): ?>
 		<div class="col-md-6">
 			<div class="action" id="<?php echo esc_attr($chilly_val['id']); ?>">
