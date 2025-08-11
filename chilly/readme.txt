@@ -3,7 +3,7 @@
 Contributors: spicethemes
 Requires at least: 4.5
 Tested up to: 6.8
-Stable tag: 1.5
+Stable tag: 1.5.1
 Requires PHP: 5.4
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 License: GNU General Public License v2 or later
@@ -30,13 +30,16 @@ In WordPress 5.8, the default widget title is showing in the H2 tag if you want 
 
 == License ==
 
-SpicePress WordPress Theme, Copyright (C) 2018-2023, SpiceThemes
+SpicePress WordPress Theme, Copyright (C) 2018-2025, SpiceThemes
 SpicePress is distributed under the terms of the GNU GPL
 
-Chilly WordPress Theme is the child theme of SpicePress Theme, Copyright (C) 2018-2023, SpiceThemes
+Chilly WordPress Theme is the child theme of SpicePress Theme, Copyright (C) 2018-2025, SpiceThemes
 Chilly WordPress Theme is distributed under the terms of the GNU General Public License v2 or later
 
 == Changelog ==
+
+= 1.5.1 ==
+* Added Gutenberg editor section functionality on business template.
 
 = 1.5 ==
 * Updated bootstrap 5.3.3.
@@ -172,4 +175,4 @@ License - CC0 Public domain
 Source - https://pxhere.com/en/photo/1445813
 
 * Images on /admin/img folder
-Copyright (C) 2018-2023, SpcieThemes and available as [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html)
+Copyright (C) 2018-2025, SpcieThemes and available as [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html)

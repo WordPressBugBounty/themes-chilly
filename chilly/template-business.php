@@ -7,6 +7,11 @@
 			   get_template_part('index','slider');
 		
         }
+        //editor content
+		if( get_theme_mod('gutenberg_editor_section_enable','on') == 'on'){
+			the_content();
+			spicepress_edit_link();
+		}
         echo '<div id="content">';
 		do_action( 'spiceb_spicepress_sections', false );
 		get_template_part('index','news');
